@@ -1,6 +1,0 @@
-git init
-//in a folder, to make it a git project
-
-git add <filename> //add a file to git project
-git add -A  //add all
-
